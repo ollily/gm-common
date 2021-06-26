@@ -11,18 +11,18 @@
 // @author          ollily2907
 // @license         Apache License, Version 2.0
 // @license         https://www.apache.org/licenses/LICENSE-2.0.txt
-// @homepageURL     https://github.com/ollily/gm-scripting
-// @supportURL      https://github.com/ollily/gm-scripting
-// @downloadURL     https://raw.githubusercontent.com/ollily/gm-scripting/gm_base/gm_base.user.js
-// @installURL      https://raw.githubusercontent.com/ollily/gm-scripting/gm_base/gm_base.user.js
-// @updateURL       https://raw.githubusercontent.com/ollily/gm-scripting/gm_base/gm_base.user.js
-// @source          https://raw.githubusercontent.com/ollily/gm-scripting/gm_base/gm_base.user.js
-// @icon            https://raw.githubusercontent.com/ollily/gm-scripting/master/gm_base/resource/gb_logo.png
-// @compatible      chrome
-// @compatible      firefox
-// @namespace       http://userscripts.org/users/ollily
+// @homepageURL     https://ollily.github.io/gm-common/
+// @supportURL      https://ollily.github.io/gm-common/
+// @downloadURL     https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
+// @installURL      https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
+// @updateURL       https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
+// @source          https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
+// @icon
+// @compatible      firefox >=52
+// @compatible      chrome >=57
+// @namespace       https://github.com/ollily
 // @run-at          document-end
-// @version         0.52.000
+// @version         0.52.001
 // @include            http://gmonkey.*.*/test/6/*
 // @include            http://devzone.*.*/test/gm/*
 // ==/UserScript==

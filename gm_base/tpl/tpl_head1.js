@@ -2,9 +2,6 @@
 // @name            GM Base
 // @fullname        Greasemonkey Base
 // @description     General Library for Greasemonkey Scripts
-// @name:en         GM Base
-// @fullname:en     Greasemonkey Base
-// @description:en  General Library for Greasemonkey Scripts
 // @name:de         GM Base
 // @fullname:de     Greasemonkey Base
 // @description:de  Allgemeine Bibliothek für Greasemonkey Scripts
@@ -13,10 +10,10 @@
 // @license         https://www.apache.org/licenses/LICENSE-2.0.txt
 // @homepageURL     https://ollily.github.io/gm-common/
 // @supportURL      https://ollily.github.io/gm-common/
-// @downloadURL     https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
-// @installURL      https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
-// @updateURL       https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
-// @source          https://raw.githubusercontent.com/ollily/gm-scripting/master/grab_links/grab_links.user.js
+// @downloadURL     https://raw.githubusercontent.com/ollily/gm-common/master/gm_base/gm_base.user.js
+// @installURL      https://raw.githubusercontent.com/ollily/gm-common/master/gm_base/gm_base.user.js
+// @updateURL       https://raw.githubusercontent.com/ollily/gm-common/master/gm_base/gm_base.user.js
+// @source          https://raw.githubusercontent.com/ollily/gm-common/master/gm_base/gm_base.user.js
 // @icon
 // @compatible      firefox >=52
 // @compatible      chrome >=57

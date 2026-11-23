@@ -337,3 +337,4 @@ dist
 .idea/*.iml
 .idea/modules
 *.prev
+/nbproject/private/
